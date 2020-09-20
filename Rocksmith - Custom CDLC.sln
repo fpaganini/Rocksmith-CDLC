@@ -36,6 +36,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EOF", "EOF", "{F09C602C-C53
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Release", "Release", "{C76DE849-CD2D-44E2-952D-3425A97BF71E}"
 	ProjectSection(SolutionItems) = preProject
+		Bonobo\Black Sands\Release\Bonobo_Black-Sands_v1_DD_m.psarc = Bonobo\Black Sands\Release\Bonobo_Black-Sands_v1_DD_m.psarc
+		Bonobo\Black Sands\Release\Bonobo_Black-Sands_v1_DD_p.psarc = Bonobo\Black Sands\Release\Bonobo_Black-Sands_v1_DD_p.psarc
 		Bonobo\Black Sands\Release\Bonobo_Black-Sands_v1_m.psarc = Bonobo\Black Sands\Release\Bonobo_Black-Sands_v1_m.psarc
 		Bonobo\Black Sands\Release\Bonobo_Black-Sands_v1_p.psarc = Bonobo\Black Sands\Release\Bonobo_Black-Sands_v1_p.psarc
 	EndProjectSection
