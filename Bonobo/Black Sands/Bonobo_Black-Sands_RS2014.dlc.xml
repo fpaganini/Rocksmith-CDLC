@@ -45,9 +45,9 @@
       <BonusArr>false</BonusArr>
       <CapoFret>0</CapoFret>
       <GlyphsXmlPath i:nil="true" />
-      <Id>a2618ef3-233e-4505-8896-b036b052c46d</Id>
+      <Id>858b26e7-b998-4a03-aed8-07712367ef93</Id>
       <LyricsArtPath i:nil="true" />
-      <MasterId>404105264</MasterId>
+      <MasterId>29698452</MasterId>
       <Metronome>None</Metronome>
       <PluckedType>NotPicked</PluckedType>
       <Represent>true</Represent>
@@ -55,7 +55,7 @@
       <ScrollSpeed>13</ScrollSpeed>
       <Sng2014 xmlns:d4p1="http://schemas.datacontract.org/2004/07/RocksmithToolkitLib.Sng2014HSL" i:nil="true" />
       <SongFile xmlns:d4p1="http://schemas.datacontract.org/2004/07/RocksmithToolkitLib.DLCPackage.AggregateGraph">
-        <d4p1:UUID>fad967af-1e1e-4877-88b6-29afa8d928bb</d4p1:UUID>
+        <d4p1:UUID>eaeef38d-123d-450e-8004-5ff212f61102</d4p1:UUID>
         <d4p1:File></d4p1:File>
         <d4p1:Version i:nil="true" />
       </SongFile>
@@ -105,7 +105,7 @@
     <JapaneseSongName></JapaneseSongName>
     <SongDisplayName>Black Sands</SongDisplayName>
     <SongDisplayNameSort>Black Sands</SongDisplayNameSort>
-    <SongYear>2000</SongYear>
+    <SongYear>2010</SongYear>
   </SongInfo>
   <Tones xmlns:d2p1="http://schemas.datacontract.org/2004/07/RocksmithToolkitLib.DLCPackage.Manifest.Tone" />
   <TonesRS2014 xmlns:d2p1="http://schemas.datacontract.org/2004/07/RocksmithToolkitLib.DLCPackage.Manifest2014.Tone">
@@ -115,27 +115,23 @@
           <d2p1:Category>Amp</d2p1:Category>
           <d2p1:KnobValues xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
             <d6p1:KeyValueOfstringfloat>
-              <d6p1:Key>Bass_Amp_EdenE300_Gain</d6p1:Key>
+              <d6p1:Key>Bass_Amp_CS75B_Gain</d6p1:Key>
+              <d6p1:Value>20</d6p1:Value>
+            </d6p1:KeyValueOfstringfloat>
+            <d6p1:KeyValueOfstringfloat>
+              <d6p1:Key>Bass_Amp_CS75B_Bass</d6p1:Key>
               <d6p1:Value>12</d6p1:Value>
             </d6p1:KeyValueOfstringfloat>
             <d6p1:KeyValueOfstringfloat>
-              <d6p1:Key>Bass_Amp_EdenE300_Bass</d6p1:Key>
-              <d6p1:Value>4</d6p1:Value>
+              <d6p1:Key>Bass_Amp_CS75B_Mid</d6p1:Key>
+              <d6p1:Value>-12</d6p1:Value>
             </d6p1:KeyValueOfstringfloat>
             <d6p1:KeyValueOfstringfloat>
-              <d6p1:Key>Bass_Amp_EdenE300_Mid</d6p1:Key>
-              <d6p1:Value>4</d6p1:Value>
-            </d6p1:KeyValueOfstringfloat>
-            <d6p1:KeyValueOfstringfloat>
-              <d6p1:Key>Bass_Amp_EdenE300_Treble</d6p1:Key>
-              <d6p1:Value>-5</d6p1:Value>
-            </d6p1:KeyValueOfstringfloat>
-            <d6p1:KeyValueOfstringfloat>
-              <d6p1:Key>Bass_Amp_EdenE300_Enhance</d6p1:Key>
-              <d6p1:Value>35</d6p1:Value>
+              <d6p1:Key>Bass_Amp_CS75B_Treble</d6p1:Key>
+              <d6p1:Value>-12</d6p1:Value>
             </d6p1:KeyValueOfstringfloat>
           </d2p1:KnobValues>
-          <d2p1:PedalKey>Bass_Amp_EdenE300</d2p1:PedalKey>
+          <d2p1:PedalKey>Bass_Amp_CS75B</d2p1:PedalKey>
           <d2p1:Skin i:nil="true" />
           <d2p1:SkinIndex i:nil="true" />
           <d2p1:Type>Amps</d2p1:Type>
@@ -143,7 +139,7 @@
         <d2p1:Cabinet>
           <d2p1:Category>Dynamic_Cone</d2p1:Category>
           <d2p1:KnobValues xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
-          <d2p1:PedalKey>Bass_Cab_BT410BC_57_Cone</d2p1:PedalKey>
+          <d2p1:PedalKey>Bass_Cab_CH410BC_57_Cone</d2p1:PedalKey>
           <d2p1:Skin i:nil="true" />
           <d2p1:SkinIndex i:nil="true" />
           <d2p1:Type>Cabinets</d2p1:Type>
@@ -152,9 +148,85 @@
         <d2p1:PostPedal2 i:nil="true" />
         <d2p1:PostPedal3 i:nil="true" />
         <d2p1:PostPedal4 i:nil="true" />
-        <d2p1:PrePedal1 i:nil="true" />
-        <d2p1:PrePedal2 i:nil="true" />
-        <d2p1:PrePedal3 i:nil="true" />
+        <d2p1:PrePedal1>
+          <d2p1:Category>Filter</d2p1:Category>
+          <d2p1:KnobValues xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+            <d6p1:KeyValueOfstringfloat>
+              <d6p1:Key>Pedal_LoFiFilter_FilterType</d6p1:Key>
+              <d6p1:Value>100</d6p1:Value>
+            </d6p1:KeyValueOfstringfloat>
+            <d6p1:KeyValueOfstringfloat>
+              <d6p1:Key>Pedal_LoFiFilter_Mix</d6p1:Key>
+              <d6p1:Value>1</d6p1:Value>
+            </d6p1:KeyValueOfstringfloat>
+          </d2p1:KnobValues>
+          <d2p1:PedalKey>Pedal_LoFiFilter</d2p1:PedalKey>
+          <d2p1:Skin i:nil="true" />
+          <d2p1:SkinIndex i:nil="true" />
+          <d2p1:Type>Pedals</d2p1:Type>
+        </d2p1:PrePedal1>
+        <d2p1:PrePedal2>
+          <d2p1:Category>Filter</d2p1:Category>
+          <d2p1:KnobValues xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+            <d6p1:KeyValueOfstringfloat>
+              <d6p1:Key>Pedal_EQ8_50</d6p1:Key>
+              <d6p1:Value>0</d6p1:Value>
+            </d6p1:KeyValueOfstringfloat>
+            <d6p1:KeyValueOfstringfloat>
+              <d6p1:Key>Pedal_EQ8_100</d6p1:Key>
+              <d6p1:Value>1</d6p1:Value>
+            </d6p1:KeyValueOfstringfloat>
+            <d6p1:KeyValueOfstringfloat>
+              <d6p1:Key>Pedal_EQ8_200</d6p1:Key>
+              <d6p1:Value>0</d6p1:Value>
+            </d6p1:KeyValueOfstringfloat>
+            <d6p1:KeyValueOfstringfloat>
+              <d6p1:Key>Pedal_EQ8_400</d6p1:Key>
+              <d6p1:Value>0</d6p1:Value>
+            </d6p1:KeyValueOfstringfloat>
+            <d6p1:KeyValueOfstringfloat>
+              <d6p1:Key>Pedal_EQ8_800</d6p1:Key>
+              <d6p1:Value>1</d6p1:Value>
+            </d6p1:KeyValueOfstringfloat>
+            <d6p1:KeyValueOfstringfloat>
+              <d6p1:Key>Pedal_EQ8_1600</d6p1:Key>
+              <d6p1:Value>7</d6p1:Value>
+            </d6p1:KeyValueOfstringfloat>
+            <d6p1:KeyValueOfstringfloat>
+              <d6p1:Key>Pedal_EQ8_3200</d6p1:Key>
+              <d6p1:Value>2</d6p1:Value>
+            </d6p1:KeyValueOfstringfloat>
+            <d6p1:KeyValueOfstringfloat>
+              <d6p1:Key>Pedal_EQ8_6400</d6p1:Key>
+              <d6p1:Value>-5</d6p1:Value>
+            </d6p1:KeyValueOfstringfloat>
+          </d2p1:KnobValues>
+          <d2p1:PedalKey>Pedal_EQ8</d2p1:PedalKey>
+          <d2p1:Skin i:nil="true" />
+          <d2p1:SkinIndex i:nil="true" />
+          <d2p1:Type>Pedals</d2p1:Type>
+        </d2p1:PrePedal2>
+        <d2p1:PrePedal3>
+          <d2p1:Category>Dynamics</d2p1:Category>
+          <d2p1:KnobValues xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+            <d6p1:KeyValueOfstringfloat>
+              <d6p1:Key>Bass_Pedal_MBComp_Compress</d6p1:Key>
+              <d6p1:Value>41</d6p1:Value>
+            </d6p1:KeyValueOfstringfloat>
+            <d6p1:KeyValueOfstringfloat>
+              <d6p1:Key>Bass_Pedal_MBComp_Rate</d6p1:Key>
+              <d6p1:Value>40</d6p1:Value>
+            </d6p1:KeyValueOfstringfloat>
+            <d6p1:KeyValueOfstringfloat>
+              <d6p1:Key>Bass_Pedal_MBComp_Filter</d6p1:Key>
+              <d6p1:Value>600</d6p1:Value>
+            </d6p1:KeyValueOfstringfloat>
+          </d2p1:KnobValues>
+          <d2p1:PedalKey>Bass_Pedal_MBComp</d2p1:PedalKey>
+          <d2p1:Skin i:nil="true" />
+          <d2p1:SkinIndex i:nil="true" />
+          <d2p1:Type>Pedals</d2p1:Type>
+        </d2p1:PrePedal3>
         <d2p1:PrePedal4 i:nil="true" />
         <d2p1:Rack1 i:nil="true" />
         <d2p1:Rack2 i:nil="true" />
@@ -167,20 +239,20 @@
       <d2p1:NameSeparator> - </d2p1:NameSeparator>
       <d2p1:SortOrder>0</d2p1:SortOrder>
       <d2p1:ToneDescriptors xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
-        <d4p1:string>$[35720]CLEAN</d4p1:string>
+        <d4p1:string>$[35715]BASS</d4p1:string>
       </d2p1:ToneDescriptors>
-      <d2p1:Volume>-12</d2p1:Volume>
+      <d2p1:Volume>-20</d2p1:Volume>
     </d2p1:Tone2014>
   </TonesRS2014>
   <ToolkitInfo>
     <PackageAuthor i:nil="true" />
-    <PackageComment>(Remastered by CDLC Creator) (Remastered by CDLC Creator) (Remastered by CDLC Creator)</PackageComment>
+    <PackageComment>(Remastered by CDLC Creator) (Remastered by CDLC Creator) (Remastered by CDLC Creator) (Remastered by CDLC Creator)</PackageComment>
     <PackageRating i:nil="true" />
     <PackageVersion>1</PackageVersion>
     <ToolkitVersion i:nil="true" />
   </ToolkitInfo>
   <Version>Toolkit Version 2.9.2.1-5a8cb74e</Version>
-  <Volume>-7</Volume>
+  <Volume>-9</Volume>
   <XBox360>false</XBox360>
   <XBox360Licenses />
 </DLCPackageData>

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tone2014 xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/RocksmithToolkitLib.DLCPackage.Manifest2014.Tone">
+  <GearList>
+    <Amp>
+      <Category>Amp</Category>
+      <KnobValues xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:KeyValueOfstringfloat>
+          <d4p1:Key>Bass_Amp_CS75B_Gain</d4p1:Key>
+          <d4p1:Value>20</d4p1:Value>
+        </d4p1:KeyValueOfstringfloat>
+        <d4p1:KeyValueOfstringfloat>
+          <d4p1:Key>Bass_Amp_CS75B_Bass</d4p1:Key>
+          <d4p1:Value>12</d4p1:Value>
+        </d4p1:KeyValueOfstringfloat>
+        <d4p1:KeyValueOfstringfloat>
+          <d4p1:Key>Bass_Amp_CS75B_Mid</d4p1:Key>
+          <d4p1:Value>-12</d4p1:Value>
+        </d4p1:KeyValueOfstringfloat>
+        <d4p1:KeyValueOfstringfloat>
+          <d4p1:Key>Bass_Amp_CS75B_Treble</d4p1:Key>
+          <d4p1:Value>-12</d4p1:Value>
+        </d4p1:KeyValueOfstringfloat>
+      </KnobValues>
+      <PedalKey>Bass_Amp_CS75B</PedalKey>
+      <Skin i:nil="true" />
+      <SkinIndex i:nil="true" />
+      <Type>Amps</Type>
+    </Amp>
+    <Cabinet>
+      <Category>Dynamic_Cone</Category>
+      <KnobValues xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <PedalKey>Bass_Cab_CH410BC_57_Cone</PedalKey>
+      <Skin i:nil="true" />
+      <SkinIndex i:nil="true" />
+      <Type>Cabinets</Type>
+    </Cabinet>
+    <PostPedal1 i:nil="true" />
+    <PostPedal2 i:nil="true" />
+    <PostPedal3 i:nil="true" />
+    <PostPedal4 i:nil="true" />
+    <PrePedal1>
+      <Category>Filter</Category>
+      <KnobValues xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:KeyValueOfstringfloat>
+          <d4p1:Key>Pedal_LoFiFilter_FilterType</d4p1:Key>
+          <d4p1:Value>100</d4p1:Value>
+        </d4p1:KeyValueOfstringfloat>
+        <d4p1:KeyValueOfstringfloat>
+          <d4p1:Key>Pedal_LoFiFilter_Mix</d4p1:Key>
+          <d4p1:Value>1</d4p1:Value>
+        </d4p1:KeyValueOfstringfloat>
+      </KnobValues>
+      <PedalKey>Pedal_LoFiFilter</PedalKey>
+      <Skin i:nil="true" />
+      <SkinIndex i:nil="true" />
+      <Type>Pedals</Type>
+    </PrePedal1>
+    <PrePedal2>
+      <Category>Filter</Category>
+      <KnobValues xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:KeyValueOfstringfloat>
+          <d4p1:Key>Pedal_EQ8_50</d4p1:Key>
+          <d4p1:Value>0</d4p1:Value>
+        </d4p1:KeyValueOfstringfloat>
+        <d4p1:KeyValueOfstringfloat>
+          <d4p1:Key>Pedal_EQ8_100</d4p1:Key>
+          <d4p1:Value>1</d4p1:Value>
+        </d4p1:KeyValueOfstringfloat>
+        <d4p1:KeyValueOfstringfloat>
+          <d4p1:Key>Pedal_EQ8_200</d4p1:Key>
+          <d4p1:Value>0</d4p1:Value>
+        </d4p1:KeyValueOfstringfloat>
+        <d4p1:KeyValueOfstringfloat>
+          <d4p1:Key>Pedal_EQ8_400</d4p1:Key>
+          <d4p1:Value>0</d4p1:Value>
+        </d4p1:KeyValueOfstringfloat>
+        <d4p1:KeyValueOfstringfloat>
+          <d4p1:Key>Pedal_EQ8_800</d4p1:Key>
+          <d4p1:Value>1</d4p1:Value>
+        </d4p1:KeyValueOfstringfloat>
+        <d4p1:KeyValueOfstringfloat>
+          <d4p1:Key>Pedal_EQ8_1600</d4p1:Key>
+          <d4p1:Value>7</d4p1:Value>
+        </d4p1:KeyValueOfstringfloat>
+        <d4p1:KeyValueOfstringfloat>
+          <d4p1:Key>Pedal_EQ8_3200</d4p1:Key>
+          <d4p1:Value>2</d4p1:Value>
+        </d4p1:KeyValueOfstringfloat>
+        <d4p1:KeyValueOfstringfloat>
+          <d4p1:Key>Pedal_EQ8_6400</d4p1:Key>
+          <d4p1:Value>-5</d4p1:Value>
+        </d4p1:KeyValueOfstringfloat>
+      </KnobValues>
+      <PedalKey>Pedal_EQ8</PedalKey>
+      <Skin i:nil="true" />
+      <SkinIndex i:nil="true" />
+      <Type>Pedals</Type>
+    </PrePedal2>
+    <PrePedal3>
+      <Category>Dynamics</Category>
+      <KnobValues xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:KeyValueOfstringfloat>
+          <d4p1:Key>Bass_Pedal_MBComp_Compress</d4p1:Key>
+          <d4p1:Value>41</d4p1:Value>
+        </d4p1:KeyValueOfstringfloat>
+        <d4p1:KeyValueOfstringfloat>
+          <d4p1:Key>Bass_Pedal_MBComp_Rate</d4p1:Key>
+          <d4p1:Value>40</d4p1:Value>
+        </d4p1:KeyValueOfstringfloat>
+        <d4p1:KeyValueOfstringfloat>
+          <d4p1:Key>Bass_Pedal_MBComp_Filter</d4p1:Key>
+          <d4p1:Value>600</d4p1:Value>
+        </d4p1:KeyValueOfstringfloat>
+      </KnobValues>
+      <PedalKey>Bass_Pedal_MBComp</PedalKey>
+      <Skin i:nil="true" />
+      <SkinIndex i:nil="true" />
+      <Type>Pedals</Type>
+    </PrePedal3>
+    <PrePedal4 i:nil="true" />
+    <Rack1 i:nil="true" />
+    <Rack2 i:nil="true" />
+    <Rack3 i:nil="true" />
+    <Rack4 i:nil="true" />
+  </GearList>
+  <IsCustom>true</IsCustom>
+  <Key>Default</Key>
+  <Name>Default</Name>
+  <NameSeparator> - </NameSeparator>
+  <SortOrder>0</SortOrder>
+  <ToneDescriptors xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:string>$[35715]BASS</d2p1:string>
+  </ToneDescriptors>
+  <Volume>-20</Volume>
+</Tone2014>

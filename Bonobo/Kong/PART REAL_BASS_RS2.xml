@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song version="7">
+<!-- EOF v1.8RC12 (4-27-2020) -->
+  <title>Kong</title>
+  <arrangement>Bass</arrangement>
+  <part>1</part>
+  <offset>0.000</offset>
+  <centOffset>0</centOffset>
+  <songLength>240.839</songLength>
+  <lastConversionDateTime>9-20-20 16:18</lastConversionDateTime>
+  <startBeat>3.000</startBeat>
+  <averageTempo>94.318</averageTempo>
+  <tuning string0="0" string1="0" string2="0" string3="0" string4="0" string5="0" />
+  <capo>0</capo>
+  <artistName>Bonobo</artistName>
+  <artistNameSort>Bonobo</artistNameSort>
+  <albumName>Bonobo</albumName>
+  <albumYear></albumYear>
+  <crowdSpeed>1</crowdSpeed>
+  <arrangementProperties represent="1" bonusArr="0" standardTuning="1" nonStandardChords="0" barreChords="0" powerChords="0" dropDPower="0" openChords="0" fingerPicking="0" pickDirection="0" doubleStops="0" palmMutes="0" harmonics="0" pinchHarmonics="0" hopo="0" tremolo="0" slides="0" unpitchedSlides="0" bends="0" tapping="0" vibrato="0" fretHandMutes="0" slapPop="0" twoFingerPicking="0" fifthsAndOctaves="0" syncopation="0" bassPick="0" sustain="1" pathLead="0" pathRhythm="0" pathBass="1" />
+  <phrases count="2">
+    <phrase name="COUNT" maxDifficulty="0" />
+    <phrase name="END" maxDifficulty="0" />
+  </phrases>
+  <phraseIterations count="2">
+    <phraseIteration time="3.000" phraseId="0"/>
+    <phraseIteration time="18.308" phraseId="1"/>
+  </phraseIterations>
+  <newLinkedDiffs count="0"/>
+  <linkedDiffs count="0"/>
+  <phraseProperties count="0"/>
+  <chordTemplates count="0"/>
+  <fretHandMuteTemplates count="0"/>
+  <ebeats count="376">
+    <ebeat time="3.000" measure="1" />
+    <ebeat time="3.638" />
+    <ebeat time="4.276" />
+    <ebeat time="4.914" />
+    <ebeat time="5.551" measure="2" />
+    <ebeat time="6.189" />
+    <ebeat time="6.827" />
+    <ebeat time="7.465" />
+    <ebeat time="8.103" measure="3" />
+    <ebeat time="8.741" />
+    <ebeat time="9.378" />
+    <ebeat time="10.016" />
+    <ebeat time="10.654" measure="4" />
+    <ebeat time="11.292" />
+    <ebeat time="11.930" />
+    <ebeat time="12.568" />
+    <ebeat time="13.205" measure="5" />
+    <ebeat time="13.843" />
+    <ebeat time="14.481" />
+    <ebeat time="15.119" />
+    <ebeat time="15.757" measure="6" />
+    <ebeat time="16.395" />
+    <ebeat time="17.032" />
+    <ebeat time="17.670" />
+    <ebeat time="18.308" measure="7" />
+    <ebeat time="18.946" />
+    <ebeat time="19.584" />
+    <ebeat time="20.222" />
+    <ebeat time="20.860" measure="8" />
+    <ebeat time="21.497" />
+    <ebeat time="22.135" />
+    <ebeat time="22.773" />
+    <ebeat time="23.411" measure="9" />
+    <ebeat time="24.049" />
+    <ebeat time="24.687" />
+    <ebeat time="25.324" />
+    <ebeat time="25.962" measure="10" />
+    <ebeat time="26.600" />
+    <ebeat time="27.238" />
+    <ebeat time="27.876" />
+    <ebeat time="28.514" measure="11" />
+    <ebeat time="29.151" />
+    <ebeat time="29.789" />
+    <ebeat time="30.427" />
+    <ebeat time="31.065" measure="12" />
+    <ebeat time="31.703" />
+    <ebeat time="32.341" />
+    <ebeat time="32.978" />
+    <ebeat time="33.616" measure="13" />
+    <ebeat time="34.254" />
+    <ebeat time="34.892" />
+    <ebeat time="35.530" />
+    <ebeat time="36.168" measure="14" />
+    <ebeat time="36.806" />
+    <ebeat time="37.443" />
+    <ebeat time="38.081" />
+    <ebeat time="38.719" measure="15" />
+    <ebeat time="39.357" />
+    <ebeat time="39.995" />
+    <ebeat time="40.633" />
+    <ebeat time="41.270" measure="16" />
+    <ebeat time="41.908" />
+    <ebeat time="42.546" />
+    <ebeat time="43.184" />
+    <ebeat time="43.822" measure="17" />
+    <ebeat time="44.460" />
+    <ebeat time="45.097" />
+    <ebeat time="45.735" />
+    <ebeat time="46.373" measure="18" />
+    <ebeat time="47.011" />
+    <ebeat time="47.649" />
+    <ebeat time="48.287" />
+    <ebeat time="48.924" measure="19" />
+    <ebeat time="49.562" />
+    <ebeat time="50.200" />
+    <ebeat time="50.838" />
+    <ebeat time="51.476" measure="20" />
+    <ebeat time="52.114" />
+    <ebeat time="52.752" />
+    <ebeat time="53.389" />
+    <ebeat time="54.027" measure="21" />
+    <ebeat time="54.665" />
+    <ebeat time="55.303" />
+    <ebeat time="55.941" />
+    <ebeat time="56.579" measure="22" />
+    <ebeat time="57.216" />
+    <ebeat time="57.854" />
+    <ebeat time="58.492" />
+    <ebeat time="59.130" measure="23" />
+    <ebeat time="59.768" />
+    <ebeat time="60.406" />
+    <ebeat time="61.043" />
+    <ebeat time="61.681" measure="24" />
+    <ebeat time="62.319" />
+    <ebeat time="62.957" />
+    <ebeat time="63.595" />
+    <ebeat time="64.233" measure="25" />
+    <ebeat time="64.870" />
+    <ebeat time="65.508" />
+    <ebeat time="66.146" />
+    <ebeat time="66.784" measure="26" />
+    <ebeat time="67.422" />
+    <ebeat time="68.060" />
+    <ebeat time="68.698" />
+    <ebeat time="69.335" measure="27" />
+    <ebeat time="69.973" />
+    <ebeat time="70.611" />
+    <ebeat time="71.249" />
+    <ebeat time="71.887" measure="28" />
+    <ebeat time="72.525" />
+    <ebeat time="73.162" />
+    <ebeat time="73.800" />
+    <ebeat time="74.438" measure="29" />
+    <ebeat time="75.076" />
+    <ebeat time="75.714" />
+    <ebeat time="76.352" />
+    <ebeat time="76.989" measure="30" />
+    <ebeat time="77.627" />
+    <ebeat time="78.265" />
+    <ebeat time="78.903" />
+    <ebeat time="79.541" measure="31" />
+    <ebeat time="80.179" />
+    <ebeat time="80.816" />
+    <ebeat time="81.454" />
+    <ebeat time="82.092" measure="32" />
+    <ebeat time="82.730" />
+    <ebeat time="83.368" />
+    <ebeat time="84.006" />
+    <ebeat time="84.644" measure="33" />
+    <ebeat time="85.281" />
+    <ebeat time="85.919" />
+    <ebeat time="86.557" />
+    <ebeat time="87.195" measure="34" />
+    <ebeat time="87.833" />
+    <ebeat time="88.471" />
+    <ebeat time="89.108" />
+    <ebeat time="89.746" measure="35" />
+    <ebeat time="90.384" />
+    <ebeat time="91.022" />
+    <ebeat time="91.660" />
+    <ebeat time="92.298" measure="36" />
+    <ebeat time="92.935" />
+    <ebeat time="93.573" />
+    <ebeat time="94.211" />
+    <ebeat time="94.849" measure="37" />
+    <ebeat time="95.487" />
+    <ebeat time="96.125" />
+    <ebeat time="96.762" />
+    <ebeat time="97.400" measure="38" />
+    <ebeat time="98.038" />
+    <ebeat time="98.676" />
+    <ebeat time="99.314" />
+    <ebeat time="99.952" measure="39" />
+    <ebeat time="100.590" />
+    <ebeat time="101.227" />
+    <ebeat time="101.865" />
+    <ebeat time="102.503" measure="40" />
+    <ebeat time="103.141" />
+    <ebeat time="103.779" />
+    <ebeat time="104.417" />
+    <ebeat time="105.054" measure="41" />
+    <ebeat time="105.692" />
+    <ebeat time="106.330" />
+    <ebeat time="106.968" />
+    <ebeat time="107.606" measure="42" />
+    <ebeat time="108.244" />
+    <ebeat time="108.881" />
+    <ebeat time="109.519" />
+    <ebeat time="110.157" measure="43" />
+    <ebeat time="110.795" />
+    <ebeat time="111.433" />
+    <ebeat time="112.071" />
+    <ebeat time="112.708" measure="44" />
+    <ebeat time="113.346" />
+    <ebeat time="113.984" />
+    <ebeat time="114.622" />
+    <ebeat time="115.260" measure="45" />
+    <ebeat time="115.898" />
+    <ebeat time="116.536" />
+    <ebeat time="117.173" />
+    <ebeat time="117.811" measure="46" />
+    <ebeat time="118.449" />
+    <ebeat time="119.087" />
+    <ebeat time="119.725" />
+    <ebeat time="120.363" measure="47" />
+    <ebeat time="121.000" />
+    <ebeat time="121.638" />
+    <ebeat time="122.276" />
+    <ebeat time="122.914" measure="48" />
+    <ebeat time="123.552" />
+    <ebeat time="124.190" />
+    <ebeat time="124.827" />
+    <ebeat time="125.465" measure="49" />
+    <ebeat time="126.103" />
+    <ebeat time="126.741" />
+    <ebeat time="127.379" />
+    <ebeat time="128.017" measure="50" />
+    <ebeat time="128.654" />
+    <ebeat time="129.292" />
+    <ebeat time="129.930" />
+    <ebeat time="130.568" measure="51" />
+    <ebeat time="131.206" />
+    <ebeat time="131.844" />
+    <ebeat time="132.482" />
+    <ebeat time="133.119" measure="52" />
+    <ebeat time="133.757" />
+    <ebeat time="134.395" />
+    <ebeat time="135.033" />
+    <ebeat time="135.671" measure="53" />
+    <ebeat time="136.309" />
+    <ebeat time="136.946" />
+    <ebeat time="137.584" />
+    <ebeat time="138.222" measure="54" />
+    <ebeat time="138.860" />
+    <ebeat time="139.498" />
+    <ebeat time="140.136" />
+    <ebeat time="140.773" measure="55" />
+    <ebeat time="141.411" />
+    <ebeat time="142.049" />
+    <ebeat time="142.687" />
+    <ebeat time="143.325" measure="56" />
+    <ebeat time="143.963" />
+    <ebeat time="144.600" />
+    <ebeat time="145.238" />
+    <ebeat time="145.876" measure="57" />
+    <ebeat time="146.514" />
+    <ebeat time="147.152" />
+    <ebeat time="147.790" />
+    <ebeat time="148.428" measure="58" />
+    <ebeat time="149.065" />
+    <ebeat time="149.703" />
+    <ebeat time="150.341" />
+    <ebeat time="150.979" measure="59" />
+    <ebeat time="151.617" />
+    <ebeat time="152.255" />
+    <ebeat time="152.892" />
+    <ebeat time="153.530" measure="60" />
+    <ebeat time="154.168" />
+    <ebeat time="154.806" />
+    <ebeat time="155.444" />
+    <ebeat time="156.082" measure="61" />
+    <ebeat time="156.719" />
+    <ebeat time="157.357" />
+    <ebeat time="157.995" />
+    <ebeat time="158.633" measure="62" />
+    <ebeat time="159.271" />
+    <ebeat time="159.909" />
+    <ebeat time="160.546" />
+    <ebeat time="161.184" measure="63" />
+    <ebeat time="161.822" />
+    <ebeat time="162.460" />
+    <ebeat time="163.098" />
+    <ebeat time="163.736" measure="64" />
+    <ebeat time="164.374" />
+    <ebeat time="165.011" />
+    <ebeat time="165.649" />
+    <ebeat time="166.287" measure="65" />
+    <ebeat time="166.925" />
+    <ebeat time="167.563" />
+    <ebeat time="168.201" />
+    <ebeat time="168.838" measure="66" />
+    <ebeat time="169.476" />
+    <ebeat time="170.114" />
+    <ebeat time="170.752" />
+    <ebeat time="171.390" measure="67" />
+    <ebeat time="172.028" />
+    <ebeat time="172.665" />
+    <ebeat time="173.303" />
+    <ebeat time="173.941" measure="68" />
+    <ebeat time="174.579" />
+    <ebeat time="175.217" />
+    <ebeat time="175.855" />
+    <ebeat time="176.492" measure="69" />
+    <ebeat time="177.130" />
+    <ebeat time="177.768" />
+    <ebeat time="178.406" />
+    <ebeat time="179.044" measure="70" />
+    <ebeat time="179.682" />
+    <ebeat time="180.320" />
+    <ebeat time="180.957" />
+    <ebeat time="181.595" measure="71" />
+    <ebeat time="182.233" />
+    <ebeat time="182.871" />
+    <ebeat time="183.509" />
+    <ebeat time="184.147" measure="72" />
+    <ebeat time="184.784" />
+    <ebeat time="185.422" />
+    <ebeat time="186.060" />
+    <ebeat time="186.698" measure="73" />
+    <ebeat time="187.336" />
+    <ebeat time="187.974" />
+    <ebeat time="188.611" />
+    <ebeat time="189.249" measure="74" />
+    <ebeat time="189.887" />
+    <ebeat time="190.525" />
+    <ebeat time="191.163" />
+    <ebeat time="191.801" measure="75" />
+    <ebeat time="192.438" />
+    <ebeat time="193.076" />
+    <ebeat time="193.714" />
+    <ebeat time="194.352" measure="76" />
+    <ebeat time="194.990" />
+    <ebeat time="195.628" />
+    <ebeat time="196.266" />
+    <ebeat time="196.903" measure="77" />
+    <ebeat time="197.541" />
+    <ebeat time="198.179" />
+    <ebeat time="198.817" />
+    <ebeat time="199.455" measure="78" />
+    <ebeat time="200.093" />
+    <ebeat time="200.730" />
+    <ebeat time="201.368" />
+    <ebeat time="202.006" measure="79" />
+    <ebeat time="202.644" />
+    <ebeat time="203.282" />
+    <ebeat time="203.920" />
+    <ebeat time="204.557" measure="80" />
+    <ebeat time="205.195" />
+    <ebeat time="205.833" />
+    <ebeat time="206.471" />
+    <ebeat time="207.109" measure="81" />
+    <ebeat time="207.747" />
+    <ebeat time="208.384" />
+    <ebeat time="209.022" />
+    <ebeat time="209.660" measure="82" />
+    <ebeat time="210.298" />
+    <ebeat time="210.936" />
+    <ebeat time="211.574" />
+    <ebeat time="212.212" measure="83" />
+    <ebeat time="212.849" />
+    <ebeat time="213.487" />
+    <ebeat time="214.125" />
+    <ebeat time="214.763" measure="84" />
+    <ebeat time="215.401" />
+    <ebeat time="216.039" />
+    <ebeat time="216.676" />
+    <ebeat time="217.314" measure="85" />
+    <ebeat time="217.952" />
+    <ebeat time="218.590" />
+    <ebeat time="219.228" />
+    <ebeat time="219.866" measure="86" />
+    <ebeat time="220.503" />
+    <ebeat time="221.141" />
+    <ebeat time="221.779" />
+    <ebeat time="222.417" measure="87" />
+    <ebeat time="223.055" />
+    <ebeat time="223.693" />
+    <ebeat time="224.330" />
+    <ebeat time="224.968" measure="88" />
+    <ebeat time="225.606" />
+    <ebeat time="226.244" />
+    <ebeat time="226.882" />
+    <ebeat time="227.520" measure="89" />
+    <ebeat time="228.158" />
+    <ebeat time="228.795" />
+    <ebeat time="229.433" />
+    <ebeat time="230.071" measure="90" />
+    <ebeat time="230.709" />
+    <ebeat time="231.347" />
+    <ebeat time="231.985" />
+    <ebeat time="232.622" measure="91" />
+    <ebeat time="233.260" />
+    <ebeat time="233.898" />
+    <ebeat time="234.536" />
+    <ebeat time="235.174" measure="92" />
+    <ebeat time="235.812" />
+    <ebeat time="236.449" />
+    <ebeat time="237.087" />
+    <ebeat time="237.725" measure="93" />
+    <ebeat time="238.363" />
+    <ebeat time="239.001" />
+    <ebeat time="239.639" />
+    <ebeat time="240.276" measure="94" />
+    <ebeat time="240.914" />
+    <ebeat time="241.552" />
+    <ebeat time="242.190" />
+  </ebeats>
+  <sections count="1">
+    <section name="noguitar" number="1" startTime="18.308"/>
+  </sections>
+  <events count="0"/>
+  <transcriptionTrack difficulty="-1">
+      <notes count="0"/>
+      <chords count="0"/>
+      <anchors count="0"/>
+      <handShapes count="0"/>
+  </transcriptionTrack>
+  <levels count="1">
+    <level difficulty="0">
+      <notes count="13">
+        <note time="13.250" string="1" fret="9" sustain="0.400" />
+        <note time="13.860" string="1" fret="9" />
+        <note time="14.090" string="3" fret="6" sustain="0.100" />
+        <note time="14.310" string="2" fret="7" />
+        <note time="14.550" string="1" fret="7" sustain="0.400" />
+        <note time="15.120" string="1" fret="7" sustain="0.100" />
+        <note time="15.350" string="3" fret="6" sustain="0.100" />
+        <note time="15.580" string="2" fret="7" sustain="0.100" />
+        <note time="15.910" string="1" fret="6" sustain="0.400" />
+        <note time="16.430" string="2" fret="7" sustain="0.100" />
+        <note time="16.680" string="1" fret="9" sustain="0.100" />
+        <note time="16.950" string="1" fret="6" sustain="0.100" />
+        <note time="17.220" string="1" fret="7" sustain="0.500" />
+      </notes>
+      <chords count="0"/>
+      <fretHandMutes count="0"/>
+      <anchors count="1">
+        <anchor time="13.250" fret="6" width="4.000"/>
+      </anchors>
+      <handShapes count="0"/>
+    </level>
+  </levels>
+</song>

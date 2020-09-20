@@ -46,6 +46,55 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bonobo", "Bonobo", "{BE0CFF
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Black Sands", "Black Sands", "{8852A888-6DC4-4783-B02D-5F4177880F4C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Kong", "Kong", "{DCD7AD58-984D-424D-8E0C-23AF69532C56}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Audio", "Audio", "{316F469D-99EC-4ED9-A08F-F1134A9D8987}"
+	ProjectSection(SolutionItems) = preProject
+		Bonobo\Kong\03 Kong.m4a = Bonobo\Kong\03 Kong.m4a
+		Bonobo\Kong\guitar - original.ogg = Bonobo\Kong\guitar - original.ogg
+		Bonobo\Kong\guitar.ogg = Bonobo\Kong\guitar.ogg
+		Bonobo\Kong\Kong.mp3 = Bonobo\Kong\Kong.mp3
+		Bonobo\Kong\original.mp3 = Bonobo\Kong\original.mp3
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EOF", "EOF", "{3B73AFE0-0E44-4166-9911-5A8DF4403EFC}"
+	ProjectSection(SolutionItems) = preProject
+		Bonobo\Kong\notes.eof = Bonobo\Kong\notes.eof
+		Bonobo\Kong\notes.mid = Bonobo\Kong\notes.mid
+		Bonobo\Kong\song.ini = Bonobo\Kong\song.ini
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{2250B0A6-B689-4ACF-935F-DA1E95A2561F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Release", "Release", "{0DDCCC6A-D5AD-4B84-924C-DC7377883C42}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Keeper", "Keeper", "{8AC76BB0-76FB-4DA9-8DDB-8B678B3820D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Audio", "Audio", "{AA4AB3CF-BE6B-4782-9B75-F38CC4E3DEBF}"
+	ProjectSection(SolutionItems) = preProject
+		Bonobo\Keeper\09 The Keeper (feat. Andreya Triana).m4a = Bonobo\Keeper\09 The Keeper (feat. Andreya Triana).m4a
+		Bonobo\Keeper\guitar - original.ogg = Bonobo\Keeper\guitar - original.ogg
+		Bonobo\Keeper\guitar.ogg = Bonobo\Keeper\guitar.ogg
+		Bonobo\Keeper\Keeper.mp3 = Bonobo\Keeper\Keeper.mp3
+		Bonobo\Keeper\original.mp3 = Bonobo\Keeper\original.mp3
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EOF", "EOF", "{CFF68AAE-7AA9-427E-AAA8-6B048152A78C}"
+	ProjectSection(SolutionItems) = preProject
+		Bonobo\Keeper\Bonobo_Keeper-The_RS2014.dlc.xml = Bonobo\Keeper\Bonobo_Keeper-The_RS2014.dlc.xml
+		Bonobo\Keeper\notes.eof = Bonobo\Keeper\notes.eof
+		Bonobo\Keeper\notes.mid = Bonobo\Keeper\notes.mid
+		Bonobo\Keeper\song.ini = Bonobo\Keeper\song.ini
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Release", "Release", "{745663D7-3B8C-4539-A878-72140ED44A52}"
+	ProjectSection(SolutionItems) = preProject
+		Bonobo\Keeper\Release\Bonobo_Keeper-The_v1_DD_m.psarc = Bonobo\Keeper\Release\Bonobo_Keeper-The_v1_DD_m.psarc
+		Bonobo\Keeper\Release\Bonobo_Keeper-The_v1_DD_p.psarc = Bonobo\Keeper\Release\Bonobo_Keeper-The_v1_DD_p.psarc
+		Bonobo\Keeper\Release\Bonobo_Keeper-The_v1_m.psarc = Bonobo\Keeper\Release\Bonobo_Keeper-The_v1_m.psarc
+		Bonobo\Keeper\Release\Bonobo_Keeper-The_v1_p.psarc = Bonobo\Keeper\Release\Bonobo_Keeper-The_v1_p.psarc
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,6 +105,15 @@ Global
 		{F09C602C-C530-4012-B177-14D8FD58B807} = {8852A888-6DC4-4783-B02D-5F4177880F4C}
 		{C76DE849-CD2D-44E2-952D-3425A97BF71E} = {8852A888-6DC4-4783-B02D-5F4177880F4C}
 		{8852A888-6DC4-4783-B02D-5F4177880F4C} = {BE0CFF5B-16DD-4400-B9FE-D3E0A4893E7F}
+		{DCD7AD58-984D-424D-8E0C-23AF69532C56} = {BE0CFF5B-16DD-4400-B9FE-D3E0A4893E7F}
+		{316F469D-99EC-4ED9-A08F-F1134A9D8987} = {DCD7AD58-984D-424D-8E0C-23AF69532C56}
+		{3B73AFE0-0E44-4166-9911-5A8DF4403EFC} = {DCD7AD58-984D-424D-8E0C-23AF69532C56}
+		{2250B0A6-B689-4ACF-935F-DA1E95A2561F} = {DCD7AD58-984D-424D-8E0C-23AF69532C56}
+		{0DDCCC6A-D5AD-4B84-924C-DC7377883C42} = {DCD7AD58-984D-424D-8E0C-23AF69532C56}
+		{8AC76BB0-76FB-4DA9-8DDB-8B678B3820D8} = {BE0CFF5B-16DD-4400-B9FE-D3E0A4893E7F}
+		{AA4AB3CF-BE6B-4782-9B75-F38CC4E3DEBF} = {8AC76BB0-76FB-4DA9-8DDB-8B678B3820D8}
+		{CFF68AAE-7AA9-427E-AAA8-6B048152A78C} = {8AC76BB0-76FB-4DA9-8DDB-8B678B3820D8}
+		{745663D7-3B8C-4539-A878-72140ED44A52} = {8AC76BB0-76FB-4DA9-8DDB-8B678B3820D8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8C3B8CA3-062F-4670-9B9A-846317182773}
