@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Audio", "Audio", "{962E4A8D-F22D-47EE-8846-792D63F927AC}"
+	ProjectSection(SolutionItems) = preProject
+		Bonobo\Black Sands\12 Black Sands.m4a = Bonobo\Black Sands\12 Black Sands.m4a
+		Bonobo\Black Sands\Black Sands.wav = Bonobo\Black Sands\Black Sands.wav
+		Bonobo\Black Sands\Bonobo - Black Sands.mp3 = Bonobo\Black Sands\Bonobo - Black Sands.mp3
+		Bonobo\Black Sands\guitar.ogg = Bonobo\Black Sands\guitar.ogg
+		Bonobo\Black Sands\guitar.wav = Bonobo\Black Sands\guitar.wav
+		Bonobo\Black Sands\guitar_preview.ogg = Bonobo\Black Sands\guitar_preview.ogg
+		Bonobo\Black Sands\guitar_preview.wav = Bonobo\Black Sands\guitar_preview.wav
+		Bonobo\Black Sands\original.mp3 = Bonobo\Black Sands\original.mp3
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{D146C7A7-9DFA-432D-9F74-98CE808A82C2}"
+	ProjectSection(SolutionItems) = preProject
+		Bonobo\Black Sands\cover.jpg = Bonobo\Black Sands\cover.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EOF", "EOF", "{F09C602C-C530-4012-B177-14D8FD58B807}"
+	ProjectSection(SolutionItems) = preProject
+		Bonobo\Black Sands\Bonobo - Black Sands.gp5 = Bonobo\Black Sands\Bonobo - Black Sands.gp5
+		Bonobo\Black Sands\Bonobo_Black-Sands_RS2014.dlc.xml = Bonobo\Black Sands\Bonobo_Black-Sands_RS2014.dlc.xml
+		Bonobo\Black Sands\cst_showlights.xml = Bonobo\Black Sands\cst_showlights.xml
+		Bonobo\Black Sands\guitar.wem = Bonobo\Black Sands\guitar.wem
+		Bonobo\Black Sands\guitar_preview.wem = Bonobo\Black Sands\guitar_preview.wem
+		Bonobo\Black Sands\notes.eof = Bonobo\Black Sands\notes.eof
+		Bonobo\Black Sands\notes.mid = Bonobo\Black Sands\notes.mid
+		Bonobo\Black Sands\notes.previous_save.eof.bak = Bonobo\Black Sands\notes.previous_save.eof.bak
+		Bonobo\Black Sands\PART REAL_BASS_RS2.xml = Bonobo\Black Sands\PART REAL_BASS_RS2.xml
+		Bonobo\Black Sands\song.ini = Bonobo\Black Sands\song.ini
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Release", "Release", "{C76DE849-CD2D-44E2-952D-3425A97BF71E}"
+	ProjectSection(SolutionItems) = preProject
+		Bonobo\Black Sands\Release\Bonobo_Black-Sands_v1_m.psarc = Bonobo\Black Sands\Release\Bonobo_Black-Sands_v1_m.psarc
+		Bonobo\Black Sands\Release\Bonobo_Black-Sands_v1_p.psarc = Bonobo\Black Sands\Release\Bonobo_Black-Sands_v1_p.psarc
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bonobo", "Bonobo", "{BE0CFF5B-16DD-4400-B9FE-D3E0A4893E7F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Black Sands", "Black Sands", "{8852A888-6DC4-4783-B02D-5F4177880F4C}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{962E4A8D-F22D-47EE-8846-792D63F927AC} = {8852A888-6DC4-4783-B02D-5F4177880F4C}
+		{D146C7A7-9DFA-432D-9F74-98CE808A82C2} = {8852A888-6DC4-4783-B02D-5F4177880F4C}
+		{F09C602C-C530-4012-B177-14D8FD58B807} = {8852A888-6DC4-4783-B02D-5F4177880F4C}
+		{C76DE849-CD2D-44E2-952D-3425A97BF71E} = {8852A888-6DC4-4783-B02D-5F4177880F4C}
+		{8852A888-6DC4-4783-B02D-5F4177880F4C} = {BE0CFF5B-16DD-4400-B9FE-D3E0A4893E7F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C3B8CA3-062F-4670-9B9A-846317182773}
+	EndGlobalSection
+EndGlobal
